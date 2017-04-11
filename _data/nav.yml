@@ -1,8 +1,8 @@
 # nav items in header
 items:
-  - text: 'Blog'
+  - text: '블로그'
     path: '/blog'
-  - text: 'Archive'
+  - text: ''
     path: '/archive'
-  - text: 'About'
+  - text: ''
     path: '/about'
