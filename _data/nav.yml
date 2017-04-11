@@ -1,5 +1,7 @@
 # nav items in header
 items:
+  - text: '처음'
+    path: '/'
   - text: '블로그'
     path: '/blog'
   - text: '내소개'
