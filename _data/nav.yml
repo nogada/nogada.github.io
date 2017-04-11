@@ -2,5 +2,5 @@
 items:
   - text: '블로그'
     path: '/blog'
-  - text: ''
+  - text: '내소개'
     path: '/about'
