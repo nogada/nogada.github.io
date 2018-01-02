@@ -5,7 +5,7 @@ paginate: 6 #articles per page
 paginate_path: /blog/page:num #makes pagination working
 
 # header text
-title: I,m FrontEnd OR Web Developer :)
+title: I,m FrontEnd || Web Developer :)
 header: Linux, PHP, MySQL, JavaScript, AngularJS, Vue.js...
 
 # for welcome page
